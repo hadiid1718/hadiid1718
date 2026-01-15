@@ -1,5 +1,5 @@
 #  About Me:
-Full-Stack Web Developer with hands-on experience building scalable and maintainable web applications, using the MERN stack and PHP.Skilled in developing responsive React-based user interfaces, designing robust,backend systems and integrating RESTful APIs.Strong understanding of database design, authentication, and<br>performance optimization, with a practical focus on clean code and real-world problem solving.
+Full-Stack Web Developer with hands-on experience building scalable and maintainable web applications, using the MERN stack and PHP.Skilled in developing responsive React-based user interfaces, designing robust,backend systems and integrating RESTful APIs.Strong understanding of database design, authentication, and performance optimization, with a practical focus on clean code and real-world problem solving.
 
 
 ##  Socials:
